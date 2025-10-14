@@ -38,7 +38,7 @@ const HeroSection = () => {
               className="bg-primary hover:bg-primary-hover text-primary-foreground transition-all shadow-lg hover:shadow-xl group"
             >
               <a
-                href="https://www.instagram.com/bielzn_kindher?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                href="https://wa.me/message/FYCJKYJR4T=="
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -53,7 +53,7 @@ const HeroSection = () => {
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all group"
             >
               <a
-                href="https://www.instagram.com/bielzn_kindher?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                href="https://wa.me/message/FYCJKYJR4T=="
                 target="_blank"
                 rel="noopener noreferrer"
               >
