@@ -38,7 +38,7 @@ const HeroSection = () => {
               className="bg-primary hover:bg-primary-hover text-primary-foreground transition-all shadow-lg hover:shadow-xl group"
             >
               <a
-                href="https://wa.me/message/FYCJKYJR4T=="
+                href="https://wa.me/5511942205280?text=venha%20fazer%20sua%20manuten%C3%A7%C3%A3o%20com%20a%20melhor%20equipe%20de%20sp=="
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -53,7 +53,7 @@ const HeroSection = () => {
               className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all group"
             >
               <a
-                href="https://wa.me/message/FYCJKYJR4T=="
+                href="https://wa.me/5511942205280?text=venha%20fazer%20sua%20manuten%C3%A7%C3%A3o%20com%20a%20melhor%20equipe%20de%20sp=="
                 target="_blank"
                 rel="noopener noreferrer"
               >
