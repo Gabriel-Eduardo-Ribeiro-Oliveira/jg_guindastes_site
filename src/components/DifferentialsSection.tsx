@@ -6,7 +6,7 @@ const differentials = [
   "Garantia em todos os serviços realizados",
   "Orçamento sem compromisso",
   "Peças originais e de qualidade certificada",
-  "Mais de 15 anos de experiência no mercado",
+  "muita  experiência no mercado",
 ];
 
 const DifferentialsSection = () => {

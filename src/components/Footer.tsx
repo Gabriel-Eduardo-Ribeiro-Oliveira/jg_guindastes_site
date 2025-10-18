@@ -16,7 +16,7 @@ const Footer = () => {
           <div>
             <h3 className="text-2xl font-bold mb-4">JG Guindastes</h3>
             <p className="text-background/80 mb-4">
-              Especialistas em manutenção e reparo de guindastes Munck há mais de 15 anos.
+              Especialistas em manutenção e reparo de Guindauto.
             </p>
             <div className="flex gap-4">
               <a
@@ -100,7 +100,7 @@ const Footer = () => {
                   href="tel:+5511999999999"
                   className="text-background/80 hover:text-primary-glow transition-colors"
                 >
-                 (11) 2631-0359
+                 (11) 26317101
                 </a>
               </li>
               <li className="flex items-center gap-2">

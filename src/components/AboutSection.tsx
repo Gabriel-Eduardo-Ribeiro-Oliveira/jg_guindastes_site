@@ -11,7 +11,7 @@ const AboutSection = () => {
             </h2>
             <div className="space-y-4 text-lg text-muted-foreground">
               <p>
-                Com mais de <strong className="text-foreground">15 anos de experiência</strong> no mercado, a JG Guindastes se consolidou como referência em manutenção e reparo de equipamentos Munck.
+                melhor atendimento de sp <strong className="text-foreground">equipe muito experiente</strong> no mercado, a JG Guindastes se consolidou como referência em manutenção e reparo de equipamentos Guindauto.
               </p>
               <p>
                 Nossa equipe é formada por técnicos especializados e certificados, que passam por treinamentos constantes para oferecer o melhor serviço aos nossos clientes.
