@@ -25,7 +25,7 @@ const HeroSection = () => {
         <div className="max-w-3xl animate-fade-in">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
             Especialistas em Reparo de{" "}
-            <span className="text-primary">Muncks</span>
+            <span className="text-primary">Guindauto</span>
           </h2>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8">
             Manutenção especializada e peças originais com equipe técnica qualificada
