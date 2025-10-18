@@ -16,9 +16,9 @@ const services = [
   },
   {
     icon: PackageCheck,
-    title: "Venda de munks",
+    title: "Venda de guindautos usados",
     description:
-      "munks usados 100% funcionais e com os melhores  preços.",
+      "guindautos usados 100% funcionais e com os melhores  preços.",
   },
   {
     icon: ClipboardCheck,
