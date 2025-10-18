@@ -37,7 +37,7 @@ const ServicesSection = () => {
             Nossos Serviços
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Soluções completas para manutenção e reparo de guindastes Munck
+            Soluções completas para manutenção e reparo de Guindauto
           </p>
         </div>
 
